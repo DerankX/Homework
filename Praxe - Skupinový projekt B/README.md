@@ -11,4 +11,4 @@ CSS a HTML
 Výpomoc s CSS a HTML
 
 
-Použily jsem php knihovnu PHP Simple HTML DOM Parser kterou můžete najít [zde](https://simplehtmldom.sourceforge.io/)
+Použily jsem php knihovnu PHP Simple HTML DOM Parser kterou můžete najít [zde](https://simplehtmldom.sourceforge.io/).
