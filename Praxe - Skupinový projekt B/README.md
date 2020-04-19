@@ -1,13 +1,13 @@
-#Jiří Hovorka
+# Jiří Hovorka
 Kod na vyhledávání a výpis H1 až H6.
 
-#Vojtěch Mothejzík
+# Vojtěch Mothejzík
 Kod na výpis linků ze stranky.
 
-#Sebastien Cabiddu
+# Sebastien Cabiddu
 CSS a HTML
 
-#Jan Tančibok
+# Jan Tančibok
 Výpomoc s CSS a HTML
 
 
