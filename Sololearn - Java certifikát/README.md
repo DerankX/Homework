@@ -2,4 +2,4 @@
 
 Odkaz na certifikat Zde: https://www.sololearn.com/Certificate/1068-13101367/pdf/
 
-![sololearn](Sololearn java certifikatr.jpg)
+![sololearn](Sololearn java certifikat.jpg)
